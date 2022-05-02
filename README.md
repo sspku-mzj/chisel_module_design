@@ -1,7 +1,4 @@
 # chisel_module_design
-This repository mainly describe chisel module
-
-
+    This repository mainly describe chisel module
 # module
-## fifo
     syncfifo
