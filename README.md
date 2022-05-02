@@ -3,4 +3,4 @@ This repository mainly describe chisel module
 
 
 # fifo
-  # syncfifo
+  ## syncfifo
